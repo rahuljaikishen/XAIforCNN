@@ -7,15 +7,15 @@ The project consists of two pages. The first page displays explanations of the V
 
 
 ### Page 1
-![alt text](./assets/Page-1.png)
+![alt text](./images/Page-1.png)
 LIME Explanation
 
 
 ### Page 2
-![alt text](./assets/Page-2.png)
+![alt text](./images/Page-2.png)
 Exploring the pixel weights in the second last VGG16 convolutional layer.
 
-![alt text](./assets/Page-3.png)
+![alt text](./images/Page-3.png)
 Counterfactual explanations sighting minor changes in which pixel cause the most disruption in the prediction.
 
 
